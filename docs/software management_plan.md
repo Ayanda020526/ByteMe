@@ -8,13 +8,13 @@
 - Member 5: AI & Documentation lead
 
 ## Project Timeline 
-|Milestone  | Task   | Deadline  |
-|-----------|---------|----------|
-|Phase 1   |Product Vision & Wireframe| Week 3 |
-|Phase 2   | Backend & Database setup  | Week 5|
-|Phase 3   | Front Development         |Week 7 |
-|Phase 4   |Integration & Testing      |Week 9 |
-|Phase 5   |Final Development          |Week 10 |
+|Milestone  | Task   | 
+|-----------|---------|
+|Phase 1   |Product Vision & Wireframe| 
+|Phase 2   | Backend & Database setup  | 
+|Phase 3   | Front Development         |
+|Phase 4   |Integration & Testing      |
+|Phase 5   |Final Development          |
 
 ## Risk Management 
 - Risk: Poor communication
