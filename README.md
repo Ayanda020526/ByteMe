@@ -25,8 +25,8 @@ The system helps students identify weak areas, track their progress, and generat
 - Liyema Damoyi – Mobile Developer
 - Yonwaba Nodayinge – AI & Documentation
 
-## 📂Project Structure
+## Project Structure
 See `/docs` for project documentation and planning.
 
 ## Status
-Phase 1: Product Vision & Planning ✔️
+Phase 1: Product Vision & Planning 
