@@ -21,9 +21,9 @@
 
 | Task | Assigned To | 
 |------|------------|
-| Setup GitHub | Member 1 |
-| Product Vision | Member 4|
-| Wireframes | Member 3|
+| Setup GitHub | Ayanda Kolisi |
+| Product Vision | Liyema Damoyi|
+| Wireframes | Ntando Notyhawe|
 
 ### Next Steps
 - Finalize product vision
