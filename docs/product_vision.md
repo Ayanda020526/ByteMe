@@ -6,7 +6,9 @@ There is a lack of systems that provide personalised and interactive study exper
 
 ## Target Users
 -University students 
+
 -High school learners
+
 -Self-learners
 
 ## Unique Value Preporsition
@@ -28,11 +30,17 @@ helping students study more effectively.
 
 ## Moore's Vision Statement
 FOR: Students who will need effective study tools. 
+
 WHO: Students who struggle with identifying weak areas and staying engaged
+
 THE:Smart Quiz Learning Platform.
+
 IS A:Cross platform quiz based learning system.
+
 THAT: Helps users improve throuhg adaptive quizzes and AI generated content 
+
 UNLIKE:Traditional study methods that are passive and non-personalised.
+
 OUR PRODUCT: Provides interactive, personalised, and effective learning experiences. 
 
 
