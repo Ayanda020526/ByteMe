@@ -31,7 +31,7 @@
   
   -Database:MySQL/PostgreSQL
 
-  Why this stack?
+  ## Why this stack?
   This stack allows efficient full-stack debvelopment,supports cross-platform functionality
   and is widely used in industry, making it suitable for scalable applications.
   
