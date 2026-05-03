@@ -1,8 +1,8 @@
 # **Technology Stack**
 - Backend: Django (Python)
-- Frontend: React.js
+-Frontend: React.js
 - Database: PostgreSQL
-- Hosting: Heroku (for staging) / AWS (for production)
+-Hosting: Heroku (for staging) / AWS (for production)
 
 ## **Justification**
 -Django REST Framework: Ideal for building secure APIs, fast development, and easy integration with frontend applications.
