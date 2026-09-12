@@ -19,11 +19,12 @@ The system helps students identify weak areas, track their progress, and generat
 - AI Integration
 
 ##  Team Members
-- Liyema Damoyi – Backend Developer
-- Ayanda Kolisi – Database Designer
-- Queen Nothyawe – Web Developer
-- Liyema Damoyi – Mobile Developer
+- Liyema Damoyi – Frontend Developer
+- Ayanda Kolisi – Backend Developer
+- Phikolomzi – Database Designer
+- Philasande Ngaveli – Backend Developer
 - Yonwaba Nodayinge – AI & Documentation
+- 
 
 ## Project Structure
 See `/docs` for project documentation and planning.
