@@ -23,8 +23,8 @@ The system helps students identify weak areas, track their progress, and generat
 - Ayanda Kolisi – Backend Developer
 - Phikolomzi – Database Designer
 - Philasande Ngaveli – Backend Developer
-- Yonwaba Nodayinge – AI & Documentation
-- 
+- Asiphe– AI & Documentation
+- Philile Bele-Database Designer
 
 ## Project Structure
 See `/docs` for project documentation and planning.
