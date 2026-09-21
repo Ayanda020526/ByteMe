@@ -21,9 +21,8 @@ The system helps students identify weak areas, track their progress, and generat
 ##  Team Members
 - Liyema Damoyi – Frontend Developer
 - Ayanda Kolisi – Backend Developer
-- Phikolomzi – Database Designer
 - Philasande Ngaveli – Backend Developer
-- Asiphe– AI & Documentation
+- Phikolomzi Ndayi– AI & Documentation
 - Philile Bele-Database Designer
 
 ## Project Structure
