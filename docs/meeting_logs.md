@@ -64,10 +64,10 @@
 
 
   ## Meeting Log 4: Project Handover & Repository Rules
-**Date & Timestamp:** Friday, 11 September 2026 @ 11:00 PM
-**Present Members:** Full Group Synchronisation Sync
+*Date & Timestamp: Friday, 11 September 2026 @ 11:00 PM
+*Present Members: Full Group Synchronisation Sync
 
-**Core Discussion Agenda:** Aligning parameters to hand over the frontend UI shells cleanly to the backend and data teams without leaking massive dependency assets.
+*Core Discussion Agenda: Aligning parameters to hand over the frontend UI shells cleanly to the backend and data teams without leaking massive dependency assets.
 
 **Handover Actions & Team Responsibilities:**
 • Frontend Completed (Liyema): Finished the raw component templates for student test-taking windows and dashboard views. Cleanly zipped the project archive folder while enforcing strict exclusion of node_modules to keep the size small.
@@ -76,13 +76,14 @@
 
   ## Meeting Log 5: Authentication Confliction Resolution(The Form Freeze Bug)
 *Date & Timestamp: Wednesday, 23 September 2026 @ 09:00 AM
+
 *Present Members: Liyema Damoyi, Philile Bele, Phikolomzi Ndayi
 
 *Core Discussion Agenda: Investigating a critical runtime error where students were blocked from registering accounts due to overlapping validation requirements.
 
 **Handover Actions & Team Responsibilities:**
-	• Frontend Completed (Liyema): Resolved the hidden input freeze by implementing React short-circuit logical switches ({role === "student" && (...) }), cleaning up field execution completely.
-	• Database/AI Team Action Item: Now that registration runs smoothly, the database team must establish relational constraints preventing a duplicate studentNumber or staffId entry inside table records.
+- Frontend Completed (Liyema): Resolved the hidden input freeze by implementing React short-circuit logical switches ({role === "student" && (...) }), cleaning up field execution completely.
+- Database/AI Team Action Item: Now that registration runs smoothly, the database team must establish relational constraints preventing a duplicate studentNumber or staffId entry inside table records.
 
 ## Meeting Log 6: Interface Unfreezing & Rule Complince 
 * Date & Timestamp: Monday, 01 October 2026 @ 11:15 AM
@@ -91,16 +92,17 @@
    
 * Core Discussion Agenda: Fixing frozen sidebar clicks and cross-role view bleeding on secondary pages like Profile.jsx and Quiz.jsx.
   **Handover Actions & Team Responsibilities:**
-	• Frontend Completed (Liyema): Corrected the state structure loop placements to fully satisfy the strict Rules of Hooks, completely unfreezing every single sidebar nav panel click.
-	• Backend Team Action Item: Must now verify that all target router directories correctly direct incoming user profiles straight to their separate lecturer database pools.
+ - Frontend Completed (Liyema): Corrected the state structure loop placements to fully satisfy the strict Rules of Hooks, completely unfreezing every single sidebar nav panel click.
+ -Backend Team Action Item: Must now verify that all target router directories correctly direct incoming user profiles straight to their separate lecturer database pools.
 
 ## Meeting Log 7: Expanded Dashboard Workspace Features Update
 
 * Date & Timestamp: Tuesday, 06 October 2026 @ 15:45 PM
-* 
+  
 * Present Members: Full Group Final Evaluation Review
 * Core Discussion Agenda: Wrapping up final feature matrices requested for the project evaluation showcase panel review.
   **Handover Actions & Team Responsibilities:**
-	• Frontend Completed: Formally integrated the full-screen modal class roster, student answers review card screens, and the automated AI Pulse glow animation markers (LuActivity).
-	• Backend Team Action Item: Must tie their real-time data rows into the full-screen student roster tables view via fetch pipelines.
-	• Database/AI Team Action Item: Responsible for replacing the mock local backup questions array pool inside aiPromptService.js with active model integration endpoints (POST /api/quiz/generate) that return clean JSON sets based on lecturer uploads.
+  
+- Frontend Completed: Formally integrated the full-screen modal class roster, student answers review card screens, and the automated AI  Pulse glow animation markers (LuActivity).
+Backend Team Action Item: Must tie their real-time data rows into the full-screen student roster tables view via fetch pipelines.
+- Database/AI Team Action Item: Responsible for replacing the mock local backup questions array pool inside aiPromptService.js with active model integration endpoints (POST /api/quiz/generate) that return clean JSON sets based on lecturer uploads.
