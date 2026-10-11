@@ -1,0 +1,71 @@
+.sidebar {
+  background: var(--maroon);
+}
+
+.analytics-card {
+  background: var(--purple);
+}
+
+.primary-btn {
+  background: var(--sunset-orange);
+}
+
+.progress-card {
+  background: var(--mint-green);
+}
+
+.progress {
+  background: #4ADE80;
+}
+
+.generator {
+  background: #7C3AED;
+}
+
+.analytics {
+  background: #F59E0B;
+}
+
+.welcome-banner {
+  background: linear-gradient(
+    135deg,
+    #7A1E1E,
+    #7C3AED
+  );
+
+  color: white;
+  padding: 30px;
+  border-radius: 16px;
+}
+
+.primary-btn {
+  background: linear-gradient(
+    90deg,
+    #F59E0B,
+    #7C3AED
+  );
+
+  color: white;
+  border: none;
+  border-radius: 10px;
+
+  padding: 14px 20px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  transform: translateY(-2px);
+
+  background: linear-gradient(
+    90deg,
+    #7C3AED,
+    #F59E0B
+  );
+}
+
+.search-bar:focus {
+  border-color: #7C3AED;
+  box-shadow: 0 0 10px rgba(124, 58, 237, 0.25);
+}
+
