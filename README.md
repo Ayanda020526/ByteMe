@@ -10,7 +10,7 @@ The system helps students identify weak areas, track their progress, and generat
 - Adaptive difficulty
 - AI-generated questions
 - Performance analytics
-- Web and mobile access
+- Web  access
 
 ##  Technologies
 - Frontend: React (Web), Flutter (Mobile)
